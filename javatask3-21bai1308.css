@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    border:1px solid black;
+    width:700px;
+    height:400px;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+.numberinput1{
+    margin:20px 0;
+}
+.numberinput2{
+    margin:20px 0;
+}
+
+.buttons{
+    margin:20px 0;
+}
